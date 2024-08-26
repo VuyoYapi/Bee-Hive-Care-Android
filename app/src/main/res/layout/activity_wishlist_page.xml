@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WishlistPage"
+    android:background="@drawable/carebg">
+
+    <View
+        android:id="@+id/view10"
+        android:layout_width="match_parent"
+        android:layout_height="166dp"
+        android:background="@color/black"
+        tools:layout_editor_absoluteX="0dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="114dp"
+        android:layout_height="97dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="166dp"
+        app:srcCompat="@drawable/logo78" />
+
+    <TextView
+        android:id="@+id/home4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="334dp"
+        android:layout_marginBottom="688dp"
+        android:text="Home"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/about4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="330dp"
+        android:layout_marginBottom="654dp"
+        android:text="About"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/training4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="321dp"
+        android:layout_marginBottom="611dp"
+        android:text="Training"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/wishlist4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="63dp"
+        android:layout_marginBottom="704dp"
+        android:text="Wishlist"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/incomege4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="672dp"
+        android:text="Income-Generater"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/contact4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="637dp"
+        android:text="Contact"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/gallery4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="62dp"
+        android:layout_marginBottom="614dp"
+        android:text="Gallery"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/donations4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="57dp"
+        android:layout_marginBottom="584dp"
+        android:text="Donation"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView53"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="215dp"
+        android:layout_marginBottom="601dp"
+        android:text="Login"
+        android:textColor="#8BC34A" />
+
+    <TextView
+        android:id="@+id/textView54"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="208dp"
+        android:layout_marginBottom="572dp"
+        android:text="Donate"
+        android:textColor="#8BC34A" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="188dp"
+        android:layout_height="114dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="215dp"
+        android:layout_marginBottom="417dp"
+        app:srcCompat="@drawable/bkjjfvsfuhzg" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="193dp"
+        android:layout_height="95dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="216dp"
+        android:layout_marginBottom="304dp"
+        app:srcCompat="@drawable/jkjkjhchytyilu" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="196dp"
+        android:layout_height="136dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="210dp"
+        android:layout_marginBottom="141dp"
+        app:srcCompat="@drawable/dtytytydpkjj" />
+
+    <TextView
+        android:id="@+id/textView99"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="518dp"
+        android:text="Wishlist"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView100"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="489dp"
+        android:text="Our Patient"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView101"
+        android:layout_width="130dp"
+        android:layout_height="160dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="324dp"
+        android:text="Patient toiletries and groceries Clothes Pulse oxymeters Blood glucose monitoring machines with testing strips Electronic BP machines Nappies Linen savers Bandages Sanitising, disinfectant and PPE’s"
+        android:textAlignment="textEnd"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView102"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="27dp"
+        android:layout_marginBottom="292dp"
+        android:text="OUR CHILDREN"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView103"
+        android:layout_width="108dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="229dp"
+        android:text="Toiletries  groceries Clothes  school uniforms Toys"
+        android:textAlignment="textEnd"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView104"
+        android:layout_width="180dp"
+        android:layout_height="47dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="172dp"
+        android:text="SITE INFRASTRUCTURE AND OTHER ESSENTIALS"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView105"
+        android:layout_width="167dp"
+        android:layout_height="109dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="52dp"
+        android:text="Banners Gazebos Projector for training purposes Industrial Shredding Machine Air-conditioners New computers, laptops and monitors"
+        android:textAlignment="textEnd"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView106"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="45dp"
+        android:layout_marginBottom="24dp"
+        android:background="#8BC34A"
+        android:text="Donate"
+        android:textColor="@color/white" />
+</RelativeLayout>
